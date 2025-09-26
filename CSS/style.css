@@ -8,6 +8,7 @@ body{
     font-family: "Roboto", sans-serif;
     color: #fff;
     padding: 0;
+    margin: 0;
 }
 
 .container {
@@ -411,3 +412,4 @@ body{
     }
 
 }
+
